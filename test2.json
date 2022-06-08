@@ -1,0 +1,243 @@
+{
+ "1":{
+  "question":"Formation of Azo-Compounds for naphthalene series, if 3 position occupied bySO3H, combination in .............",
+   "A":"position 2",
+   "B":"position 3",
+   "C":"position 4",
+   "D":"position 5",
+   "ans":"a)"
+ },
+ "2":{
+  "question":"Formation of Azo-Compounds for naphthalene series, if 5 position occupied by SO3H, combination in ..................",
+  "A":"position 2",
+   "B":"position 3",
+   "C":"position 4",
+   "D":"position 5",
+   "ans":"a)"
+ },
+ "3":{
+  "question":"3- Formation of Azo-Compounds for naphthalene series, with a hydroxyl group oramino group in the B position combination takes place in ...............",
+  "A":"position 2",
+  "B":"position 3",
+  "C":"position 4",
+  "D":"position 1",
+  "ans":"d)"
+ },
+ "4":{
+  "question":"Formation of Azo-Compounds for naphthalene series, with a hydroxyl group oramino group in the B position, if the position 1 is occupied, ......... takes place.",
+  "A":"position 2",
+  "B":"position 3",
+  "C":"position 4",
+  "D":"No coubling",
+  "ans":"d)"
+  },
+ "5":{
+  "question":"The dyes Prepared through reaction of coupling by addition followed by elimination of water called..........",
+   "A":"Vat Dyes",
+   "B":"Disperse Dyes",
+   "C":"Reactive Dye",
+   "D":"Azo Dyes"
+   ,"ans":"d)"
+  },
+ "6":{
+  "question":"Formation of Azo-Compounds, the Diazo group enters the ........ with regard toany hydroxyl or amino group.",
+   "A":"ortho-position",
+   "B":"para-position",
+   "C":"meta-position",
+   "D":"ortho and para-position"
+   ,"ans":"b)"
+  },
+ "7":{
+  "question":"Formation of Azo-Compounds, if para-position is occupied, the Diazo groupenters the ............... to OH or NH2.",
+  "A":"ortho-position",
+  "B":"para-position",
+  "C":"meta-position",
+  "D":"No form of dyes"
+  ,"ans":"a)"
+  },
+ "8":{
+  "question":"Formation of Azo-Compounds, if ortho-position and para-position are occupied,no coupling,",
+  "A":"ortho-position",
+  "B":"para-position",
+  "C":"meta-position",
+  "D":"No form of dyes"
+  ,"ans":"d)"
+  },
+ "9":{
+  "question":"The dyes form covalent bond with fiber (cellulosic) called..............",
+   "A":"Vat Dyes ",
+   "B":"Disperse Dyes",
+   "C":" Reactive Dye",
+   "D":"Organic Pigments"
+   ,"ans":"c)"
+  },
+ "10":{
+  "question":" The dyes water insoluble used for coloring paints called..............",
+  "A":"Vat Dyes ",
+  "B":"Disperse Dyes",
+  "C":" Reactive Dye",
+  "D":"Organic Pigments"
+  ,"ans":"d)"
+  },
+ "11":{
+  "question":" The dyes have compounds possessing the chromophoric group N=N attached to two aromatic nuclei forms the chromogen RN=NR which by entranceof an auxochrome (NH or OH) become the base or acid called........",
+  "A":"Vat Dyes ",
+  "B":"Disperse Dyes",
+  "C":" Reactive Dye",
+  "D":"Azo dye"
+  ,"ans":"d)"
+  },
+ "12":{
+  "question":" The dyes from Salts of the Color Bases called................",
+   "A":"Basic Dyes ",
+   "B":"Acid Dyes",
+   "C":" Azoic Dye",
+   "D":"Mordant Dyes"
+   ,"ans":"a)"
+  },
+ "13":{
+  "question":"The dyes Insoluble and applied to Cellulosic Fibers and may be termedingrain dyes i.e.: produced on the fiber called..............",
+  "A":"Basic Dyes ",
+   "B":"Acid Dyes",
+   "C":" Azoic Dye",
+   "D":"Mordant Dyes"
+   ,"ans":"c)"
+  },
+ "14":{
+  "question":"The dyes do not dye fiber directly called...................",
+  "A":"Basic Dyes ",
+   "B":"Acid Dyes",
+   "C":" Azoic Dye",
+   "D":"Mordant Dyes"
+   ,"ans":"d)"
+  },
+ "15":{
+  "question":"The dyes prepared as complexes then applied to the fiber differ from mordant called..................",
+  "A":"Basic Dyes ",
+   "B":"Acid Dyes",
+   "C":" Azoic Dye",
+   "D":"Metal Complexes Dyes"
+   ,"ans":"d)"
+  },
+ "16":{
+  "question":"The dyes used in their reduced state called..................",
+  "A":"Vat Dyes ",
+  "B":"Acid Dyes",
+  "C":" Azoic Dye",
+  "D":"Metal Complexes Dyes"
+  ,"ans":"a)"
+  },
+ "17":{
+  "question":"Polyamides fiber is .....................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"a)"
+  },
+ "18":{
+  "question":"Polyesters fiber is .....................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"a)"
+  },
+ "19":{
+  "question":"Polyareylonitrile fiber is .....................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"a)"
+  },
+ "20":{
+  "question":"The dye molecule may be bounded to fiber by: Covalent Bond - HydrogenBond - Ionic Bond - Van der Waals Forces - is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"a)"
+  },
+ "21":{
+  "question":"The dyes from Sodium Salts of Sulphonic and Carboxylic Acids called.....",
+  "A":"Vat Dyes ",
+  "B":"Acid Dyes",
+  "C":" Azoic Dye",
+  "D":"Metal Complexes Dyes"
+  ,"ans":"b)"
+  },
+ "22":{
+  "question":"Flax is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"b)"
+  },
+ "23":{
+  "question":"Jute is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"b)"
+  },
+ "24":{
+  "question":"Wool is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"c)"
+  },
+ "25":{
+  "question":"Silk is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"c)"
+  },
+ "26":{
+  "question":"protein is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"c)"
+  },
+ "27":{
+  "question":"Classification of Dyes: Depending on the nature of fiber and dye called ...",
+  "A":"Application Classification ",
+  "B":" Chemical Classification",
+  "C":"  Shape Classification",
+  "D":"color classification"
+   ,"ans":"a)"
+  },
+ "28":{
+  "question":"cellulosic is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"b)"
+  },
+ "29":{
+  "question":"cotton is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"b)"
+  },
+ "30":{
+  "question":"linen is .................",
+  "A":"Synthetic Fiber ",
+  "B":"Vegetable Fiber",
+  "C":" Animal Fiber",
+  "D":"Chemical Fiber"
+   ,"ans":"b)"
+ }
+
+ }
